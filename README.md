@@ -18,7 +18,7 @@ Installation
 This project is available on npm. Just run the following and be on your merry way.
 
 ```sh
-$ npm install poloniex-unofficial
+$ npm install webhat/poloniex-unofficial
 ```
 
 Usage
